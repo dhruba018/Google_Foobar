@@ -11,17 +11,17 @@ Write a function called solution(data, n) that takes in a list of less than 100 
 
 Test Cases
 ==========
-Your code should pass the following test cases.
+Your code should pass the following test cases.\
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
-Input:
-solution.solution([1, 2, 3], 0)
-Output:
+-- Python cases --\
+Input:\
+solution.solution([1, 2, 3], 0)\
+Output:\
 	[]
 
-Input:
-solution.solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
-Output:
+Input:\
+solution.solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)\
+Output:\
 	[1, 4]
 	
