@@ -9,15 +9,15 @@ Write a function called **solution(data, n)** that takes in a list of less than 
 	Your code should pass the following test cases.  
 	Note that it may also be run against hidden test cases not shown here.
 	
-	#### -- Python cases --
-		Input:
-		solution.solution([1, 2, 3], 0)
-		Output:
-			[]
+	-- Python cases --
+	Input:
+	solution.solution([1, 2, 3], 0)
+	Output:
+		[]
 		
-		Input:
-		solution.solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
-		Output:
-			[1, 4]
+	Input:
+	solution.solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
+	Output:
+		[1, 4]
 
 ### Time to solve = 24 hrs
