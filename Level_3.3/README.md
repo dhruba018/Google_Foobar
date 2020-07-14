@@ -10,12 +10,12 @@ Write a function **solution(map)** that generates the length of the shortest pat
 ### Test Cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
 	
-	Inputs:
+	Input:
 	solution.solution([[0, 1, 1, 0], [0, 0, 0, 1], [1, 1, 0, 0], [1, 1, 1, 0]])
 	Output:
 		7
 	
-	Inputs:
+	Input:
 	solution.solution([[0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 1, 1], [0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0]])
 	Output:
 		11
