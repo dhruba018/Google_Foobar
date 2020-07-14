@@ -26,12 +26,12 @@ To help yourself get to and from your bunk every day, write a function called **
 ### Test Cases
 Your code should pass the following test cases.  Note that it may also be run against hidden test cases not shown here.
 
-	Inputs:
+	Input:
 	solution.solution(19, 36)
 	Output:
 		1
 	
-	Inputs:
+	Input:
 	solution.solution(0, 1)
 	Output:
 		3
