@@ -16,12 +16,12 @@ Given a minion ID as a string n representing a nonnegative integer of length k i
 ### Test Cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
 
-	Inputs:
+	Input:
 	solution.solution("1211", 10)
 	Output:
 		1
 	
-	Inputs:
+	Input:
 	solution.solution("210022", 3)
 	Output:
 		3
