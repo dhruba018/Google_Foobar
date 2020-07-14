@@ -31,4 +31,18 @@ But when N = 5, there are two ways you can build a staircase from the given bric
 	##
 	32
 
-Write a function called solution(n) that takes a positive integer n and returns the number of different staircases that can be built from exactly n bricks. n will always be at least 3 (so you can have a staircase at all), but no more than 200, because Commander Lambda's not made of money!
+Write a function called **solution(n)** that takes a positive integer n and returns the number of different staircases that can be built from exactly n bricks. n will always be at least 3 (so you can have a staircase at all), but no more than 200, because Commander Lambda's not made of money!
+
+### Test cases
+Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
+
+	-- Python cases --
+	Inputs:
+	solution.solution(3)
+	Output:
+		1
+	
+	Inputs:
+	solution.solution(200)
+	Output:
+		487067745
