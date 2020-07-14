@@ -36,13 +36,12 @@ Write a function called **solution(n)** that takes a positive integer n and retu
 ### Test cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
 
-	-- Python cases --
-	Inputs:
+	Input:
 	solution.solution(3)
 	Output:
 		1
 	
-	Inputs:
+	Input:
 	solution.solution(200)
 	Output:
 		487067745
