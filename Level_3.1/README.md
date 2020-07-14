@@ -10,12 +10,12 @@ Write a function **solution(l)** that takes a list of positive integers l and co
 ### Test Cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
 	
-	Inputs:
+	Input:
 	solution.solution([1, 1, 1])
 	Output:
 		1
 	
-	Inputs:
+	Input:
 	solution.solution([1, 2, 3, 4, 5, 6])
 	Output:
 		3
