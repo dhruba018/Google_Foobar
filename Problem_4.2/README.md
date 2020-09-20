@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Distract the Guards
 **Time to solve = 360 hrs**
 
