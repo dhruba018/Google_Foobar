@@ -29,4 +29,3 @@ Your code should pass the following test cases. Note that it may also be run aga
 	solution.solution([1, 7, 3, 21, 13, 19])
 	Output:
 	    0
->>>>>>> 7f295389a1b5517538c9ff2a3a5b0c3ee349dff6
