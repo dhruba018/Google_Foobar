@@ -46,7 +46,7 @@ In the above configuration, all celestial bodies are "silent" - that is, they ha
 
 4 noisy celestial bodies.
 
-There are 7 distinct, non-equivalent grids in total, so solution(2, 2, 2) would return 7.
+There are 7 distinct, non-equivalent grids in total, so **solution(2, 2, 2)** would return 7.
 
 ### Test cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
