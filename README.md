@@ -32,7 +32,7 @@ This repo contains the coding problems I encountered in the so-called **Google F
 * [Problem_5: Disorderly Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_5)
 
 
-![Foobar journal](https://github.com/dhruba018/Google_Foobar/blob/master/Figures/foobar_journal_full.png)
+#![Foobar journal](https://github.com/dhruba018/Google_Foobar/blob/master/Figures/foobar_journal_full.png)
 
 ![Foobar finished](https://github.com/dhruba018/Google_Foobar/blob/master/Figures/foobar_finished2.png)
 
