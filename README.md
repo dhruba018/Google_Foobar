@@ -53,5 +53,6 @@ This repo contains the coding problems I encountered in the so-called **[Google 
 * Your solution must be under 32000 characters in length including new lines and and other non-printing characters.  
 
 
-Some random commands on foobar terminal...
+Some random commands on foobar terminal...  
+
 ![Foobar fun](/Figures/foobar_fun_errmsg.png)
