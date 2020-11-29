@@ -9,30 +9,27 @@ This repo contains the coding problems I encountered in the so-called **Google F
 ### Problems
 **Level 1.** One problem at this level. Pretty easy!  
 
-1.    [Minion Task Scheduling](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_1)
+* [Problem 1: Minion Task Scheduling](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_1)
 
 **Level 2.** Two problems at this level. Needs knowledge of basic search algorithms/graph theory. Still easy enough.  
 
-2.    
-	2.1.    [Don't Get Volunteered](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.1)
-	2.2.    [Hey I Already Did That](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.2)
+* [Problem 2.1: Don't Get Volunteered](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.1)
+* [Problem 2.2: Hey I Already Did That](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.2)
 
 **Level 3.** Three problems at this level. Similar to Level 2, but needs some dynamic programming approaches too. Bit of a mixed bag.  
 
-3.    
-	3.1.    [Find the Access Codes](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.1)
-	3.2.    [The Grandest Staircase of Them All](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.2)
-	3.3.    [Prepare the Bunnies' Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.3)
+* [Problem 3.1: Find the Access Codes](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.1)
+* [Problem 3.2: The Grandest Staircase of Them All](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.2)
+* [Problem 3.3: Prepare the Bunnies' Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.3)
 
 **Level 4.** Two problems at this level. The fun begins here (!)- but honestly these problems are much more intriguing and thought provoking. Needs knowledge of applied math- specially geometric transformations and combinatorics.  
 
-4.    
-	4.1.    [Bringing a Gun to a Guard Fight](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.1)
-	4.2.    [Distract the Guards](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.2)
+* [Problem 4.1: Bringing a Gun to a Guard Fight](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.1)
+* [Problem 4.2: Distract the Guards](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.2)
 
 **Level 5.** One problem at this level. This one was wild- needs knowledge of pure math!  
 
-5.    [Disorderly Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_5)
+* [Problem 5: Disorderly Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_5)
 
 
 ![Foobar journal](https://github.com/dhruba018/Google_Foobar/blob/master/Figures/foobar_journal_full.png)
