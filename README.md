@@ -7,23 +7,23 @@ This repo contains the coding problems I encountered in the so-called **Google F
 ![Foobar window](https://github.com/dhruba018/Google_Foobar/blob/master/Figures/foobar_window.png)
 
 ### Problems
-**Level 1.** One problem at this level. Pretty easy! 
+**Level 1.** One problem at this level. Pretty easy!  
 	* [Minion Task Scheduling](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_1)
 
-**Level 2.** Two problems at this level. Needs knowledge of basic search algorithms/graph theory. Still easy enough. 
+**Level 2.** Two problems at this level. Needs knowledge of basic search algorithms/graph theory. Still easy enough.  
 	* [Don't Get Volunteered](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.1)
 	* [Hey I Already Did That](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_2.2)
 
-**Level 3.** Three problems at this level. Similar to Level 2, but needs some dynamic programming approaches too. Bit of a mixed bag. 
+**Level 3.** Three problems at this level. Similar to Level 2, but needs some dynamic programming approaches too. Bit of a mixed bag.  
 	* [Find the Access Codes](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.1)
     * [The Grandest Staircase of Them All](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.2)
 	* [Prepare the Bunnies' Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_3.3)
 
-**Level 4.** Two problems at this level. The fun begins here (!)- but honestly these problems are much more intriguing and thought provoking. Needs knowledge of applied math- specially geometric transformations and combinatorics. 
+**Level 4.** Two problems at this level. The fun begins here (!)- but honestly these problems are much more intriguing and thought provoking. Needs knowledge of applied math- specially geometric transformations and combinatorics.  
     * [Bringing a Gun to a Guard Fight](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.1)
     * [Distract the Guards](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_4.2)
 
-**Level 5.** One problem at this level. This one was wild- needs knowledge of pure math!
+**Level 5.** One problem at this level. This one was wild- needs knowledge of pure math!  
     * [Disorderly Escape](https://github.com/dhruba018/Google_Foobar/tree/master/Problem_5)
 
 
